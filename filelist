@@ -1,0 +1,106 @@
+File		Purpose
+----------	------------------------------------------------------
+IDQDLOG		Messages from the idqd daemon
+Makefile	Rules on how to put it all together
+act.adm.c	Administration commands
+act.comm.c	Communication commands
+act.info.c	Informative commands
+act.move.c	Movement commands
+act.nego.c	Negotiation commands
+act.obj1.c	Object commands 1
+act.obj2.c	Object commands 2
+act.org.c	Organization commands
+act.oth.c	Other commands
+act.soc.c	Social commands
+act.vio.c	Violent commands
+bio.h		Header for biological entities
+board.c		(not used) Bulletin Boards
+combat.c	Random acts of violence
+comm.c		Socket interface and intercommunication functions
+comm.h		Header defining descriptors and communication parameters
+config.h	Header for local customization of compilation
+const.c		Values that don't change
+cron.c		Timekeeping system for arranged events and scripts
+cron.h		Header for cron
+cronutil.c	Utilities for cron
+db.c		Functions on the mud database
+db.h		Defines and structs for database
+debug.c		Regularly executed code to know what happened at a crash
+desc.c		(not used) For future description-on-demand idea
+end.c		What happens when you die
+error.h		Global error values
+event.c		Controls queueing of events that everyone sees
+event.h		Event structures and defines
+force.c		May the force be with you... the core physics of magic
+handler.c	Functions on all kinds of things
+id.h		Defines for the idqd daemon
+idcomm.c	Communication functions for idqd
+idqd.c		The IDent Query Daemon - a daemon to query ident daemons
+interp.c	Translate input to commands
+interp.h	Definitions of command functions, and info for interp.c
+item.c		Useful item grouping functions (maybe?)
+magic.h		A do-it yourself magic kit
+magic2.c	Some standard "spells" for the new system
+mob.h		Mob-specific defines and structures
+mobthink.c	Groupthink out of control (What rules a mob's collective mind?)
+mobutil.c	With the help of some utilities, mobs can think more
+modify.c	String-modifying system
+nanny.c		Babysitting for those people not in the game
+org.c		Controls organizations
+org.h		Important information for those who control organizations
+phys.c		The physical world lies here
+player.c	Special code just for players, not mobs
+player.h	Special defines and strucutres for players (not mobs)
+plot.c		The plot thickens things
+proto.h		Prototypes of all kinds of functions
+pulse.c		Thumpa-thumpa - things that make you tick.
+rumor.c		Have you heard the latest?
+save.c		God saves sinners, and redeems them for valuable cash prizes
+save.h		Structures saved to files
+signals.c	Unix-specific code for special events
+skills.h	Defines for all the skills there are
+spec.gen.c	Generic special procedures
+spec.oth.c	Not-so-generic special procedures
+specproc.c	Special procedure central - how they happen
+spell.c		What a mage casts
+structs.h	Various database structures and defines... wasn't that db.h?
+time.h		Time structures and defines
+topten.c	When I get to heaven, the first thing I'll see is a top ten list
+upvers.c	Bumps the mud revision one each mostly successful compile
+utility.c	I prefer railroads over utilities, but they're good too
+utils.h		Various macros that are almost as useful as a railroad
+version.c	How do we know we made progress without a high version number?
+vt100.h		Codes for using special features of vt100
+weather.c	If you don't like the weather, just wait ten minutes
+weather.h	All weather forecasters must have an appropriate vocabulary
+
+lib:
+actions		Social database (shouldn't it be called 'socials')
+bugs		Insects to trample underfoot
+credits		Give it where it's due
+help		The top help menu
+help_table	A database of help entries
+id		Keeps track of identifier numbers so nobody gets the same
+ideas		Ideas are like fingernails - everyone ought to file them
+loop.debug	Currently contains info on where everyone was last loop
+lstcmd		The last few commands executed - helpful after crashes
+messages	Fight messages - may not make it...
+mon.out		This probably means you're profiling your code
+motd		Message of the day
+news		The latest (hmm... see rumor.c)
+readers		A menued information system
+save		A directory of data files we want to keep around
+save/world.objs	Saved objects just sitting in rooms by themselves
+syllables	A mapping of mutterings to magic
+time		To remember the mud time from the last boot
+typos		I never make mistrakes
+world.bio	Biological information
+world.cron	Scripts for cron
+world.fig	Organizational Figureheads
+world.mob	Mobiles - will these stay around for long?
+world.obj	Old object system file
+world.obj2	New object system file
+world.org	What kinds of organizations in this world?
+world.shp	(not used) Why is this around, anyway?
+world.wld	Rooms of the world
+world.zon	Zones of the world

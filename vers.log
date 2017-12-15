@@ -1,0 +1,205 @@
+Copper III version log - in case this information becomes important or
+interesting to anyone. Unfortunately, the first year or so of c3 isn't
+included here... Gaps are generally for debugging compiles (if jumps
+become too grand, I sometimes cut them back arbitrarily).
+
+3.1	Implemented version tracking for the mud as a whole - each
+	successful compile will bump the revision number. The
+	version.c must be edited directly to change the version,
+	or to make hops in revision other than by one.
+
+3.12	Changed most major structures to include entirely aligned
+	data by promoting byte-sized elements to forms of int.
+	This will help in porting to some systems which insist on
+	complaining about these things.
+
+3.17	Added in id's for characters (mobs and players)
+
+3.18	Fixed mob id's to go negative, to keep them differentiated
+	from player id's. Also beefed up the underpinnings of the
+	new obj/material system (defines/structures).
+
+3.21    Changed number() to work properly if the elements fed to it
+	are in whatever order.
+
+3.24	No movement commands when fighting...
+
+3.25	Added FILE_H defines into the *.h files to clean up -Wall
+	output some. There's still a long way to go to compile
+	the entire mud cleanly, though.
+
+3.26	Re-enabled social commands, decided to call it with
+	do_social() instead of do_action(), which should be
+	a bit more intuitive.
+
+3.29	Fixed remove bug which gleefully allowed anyone to remove
+	unequipped items as many times as they liked. English-ized
+	skills command (still numbers in it, though). Now copying
+	IP number into descriptor->host for those hosts we can't
+	get real names for.
+
+3.30	Changed update_id() to save only once the boot process is
+	over so we don't waste all that time when loading mobs
+	during boot.
+
+3.31	Synchronized interpreter.c and actions file. Separated
+	file format information from structs.h into save.h, and
+	now save character position.
+
+3.32	Commented out equipment loading ('E') in zone resets,
+	as this was causing problems in other architectures.
+	Merged .save and .items into just a .save file. Noticed
+	that there were still references to obj->affected as an
+	array and MAX_OBJ_AFFECT still exists - deleted such.
+
+3.35	Fixed equipment-position saving, and added code to count
+	obj affects and materials, even if they aren't saved yet.
+	Also added 'E' loading for zone resets, as it was obvious
+	that the obj->affected bug was the reason they weren't
+	working.
+
+3.36	Really fixed the hostname-when-lookup-failure bug.
+
+3.38	Bios become a working part of the mud, alongside mobs
+	temporarily. Removed user creation of self-descriptions.
+
+3.45	Bios boot successfully. [It helps to know where the code
+	tree is, doesn't it?]
+
+3.55	Bio attribute rolling system working, at least on the
+	surface.
+
+3.56	Renamed "gostat"/do_status to "mode"/do_mode, because the
+	old way really bothered me =P. Created send_welcome()
+	mainly to let people know which version they are playing.
+
+3.57	Added HAVE_STRING(S)_H to config.h, and sed'd the files
+	to include the proper one. Additional minor changes for
+	port to System V/Usix.
+
+3.62	New players now loaded from the human bio. Still need to
+	create reasonable descriptions, and random choice from
+	among humanoids.
+
+3.65	Fixed reader problem which caused [return] to go to the
+	root, rather than the branch specified in the file. Also,
+	made fread_string() handle embedded newlines properly.
+
+3.67	Snoop a descriptor number (avail_to() only), and lookup
+	bio.
+
+3.71	Adding magic syllables, loading and parsing thereof.
+
+3.77	Changed syllable file to use words instead of numbers to
+	map to attributes.
+
+3.81	Adding information for Ident Queries. Decided to nuke
+	direction info from room struct. Successful rebuild of
+	makefile to build multiple-platform binaries.
+
+3.83	Added author to zone information to reflect the fact that
+	this information has been in the zone file for weeks.
+
+3.86	Movement through obj-exits instead of room-arrays apparently
+	working fine. Some problems with handling of "null" objects
+	noted - some fixed.
+
+3.89	Adding event information for simple things - death, arrive,
+	depart, hunger, thirst, sleepiness.
+
+3.90	Started moving regular operations on characters into
+	char_pulse(), also renamed limits.c as pulse.c
+
+3.92	Attempting to mess up client tick counters by slight changes
+	to comm.c
+
+3.93	Added local hostname to log and to welcome greeting, to
+	keep things simple when sharing binaries over NFS.
+
+3.95	Incorporated outrip() from Nethack, but without the
+	supporting code - just your basic tombstone.
+
+3.97	Nuked _m, _f, and _n from title in org figures because
+	people are people (creatures are creatures?) and we
+	don't need to be coming up with terminology all the time
+	to divide them into distinct, rigid groups. There's also
+	some kind of minor space savings too, I'm sure. Also added
+	the code to read figures.
+
+3.98	Minor changes to keep do_time and do_calendar in sync.
+
+3.99	Some portability changes to alpha/OSF/1 - one problem with
+	"cc": it complains about \ as a line continuation character
+	outside of a string (i.e. "part1" \ (next line) "part2").
+	It'll compile with beaucoup warnings, but that's better than
+	gcc not compiling at all with the \'s missing. I don't see
+	any easy way to #ifdef this right now.
+
+3.101	Minor cron fixes...
+
+3.104	Added BIO_MOBILE so we don't have wandering plants/fungi/etc
+	- not without intending to, anyway.
+
+3.106	Added bioinfo command.
+
+3.108	Small changes to fight.c, including fix to death_cry() and
+	inclusion of skill_offense for to_hit.
+
+3.109	Removed keyword from obj_info_exit, as regular obj_data should
+	take care of that, causing temporary chaos in act.move.c. Minor
+	changes in nanny.c to be nice.
+
+3.111	General scrubbing to compile more cleanly - still a ways to go,
+	particularly in act.obj[12].c
+
+3.112	Another file name change spree, so I get 6 columns instead of
+	just 5 with ls. Some more work on preparing for the linked
+	object types, including the obj_info_size table for use in
+	save.c when it's time to save the files to disk. Object types
+	will have pretty easy versioning built in: If a obj_info_*
+	file is expanded or otherwise changed, then change the old
+	struct and define to *_OLD, allocate a new item type number,
+	and convert on loading to the new type, whenever the old
+	type is seen.
+
+3.113	Created new_obj_info() since it seemed time for it. Putting
+	in obj_info saving for objects, and routines to save objects
+	just "lying around" in the world. Added some sanity checks
+	to save.c  Fixed bug that allowed equipped items to be dropped.
+	Also, nuked the value array from obj saving to encourage it to
+	be nuked in the rest of the game too.
+
+3.115	Removed cost_per_day from objects, as that's quite a silly
+	thing to still have around.
+
+3.119	Added in saving of obj_material and obj_affect for compleatness,
+	though there's nothing around to generate these things yet.
+
+3.120	Removed type_flag and wear_flag from object obj_flags, and also
+	moved ITEM_TAKE to extra_flags. This makes the current obj file
+	and format useless, so it's probably about time to make the new
+	format.
+
+3.124	Nuked magic.c, putting teleport_to() and check_item_teleport()
+	into phys,c for the time being. Lots of other little changes
+	for cleaner compilation - nearly all warnings are from missing
+	system declarations or act.obj[12].c, which will be rewritten
+	once the object system is more solid.
+
+3.127	Implemented do_discon and player disconnected actions for the
+	first time. One thought: somehow disconnected characters must
+	be prevented from being used as bots. It can be tricky to make
+	the system worthwhile enough to be used, but not powerful
+	enough to be abused. The most likely abuse would be with
+	DISCON_ATTACK, to effectively multiplay in killing creatures
+	without any extra sockets used.
+
+3.128	Nuked out type_flag finally from obj_data->obj_flags. This
+	means everyone has to use get_obj_info or iterate on 
+	obj_data->info to see what they're dealing with. Also,
+	many associated changes in act.obj[12].c, though they still
+	will need work.
+
+3.129	Added save_string() and load_string() because I'm sure I'll
+	be needing them soon. Nuked value[4] from objects to clear
+	the way to using only the obj_info method.

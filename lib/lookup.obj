@@ -1,0 +1,539 @@
+#7 a fountain~
+#8 a sugar cube~
+#9 a bulletin board~
+#10 a samurai sword~
+#19 a rainbow key~
+#20 Pizza of the Gods~
+#33 a wedding invitation~
+#70 a gold star~
+#90 a jacket~
+#91 some tights~
+#100 a tattered map~
+#101 a brand new, rolled-up map~
+#102 a brand new, rolled-up map~
+#900 A Magic Mushroom~
+#1000 ~
+#1001 a red rose~
+#1203 an executioners blade~
+#1204 Fear and Loathing~
+#1205 A piece of paper~
+#1206 A feather quill~
+#1207 Jchaaden's Staff of Might~
+#1210 a handy-dandy vacuum cleaner~
+#1211 an amazing Ginsu Pepper Grinder~
+#1400 the rainbow staff~
+#1401 Sting~
+#1402 a sign~
+#1403 a pipeweed bread~
+#1404 a silvery cloak~
+#1405 the One Ring~
+#1406 an elven bow~
+#1407 a mithril axe~
+#1408 the thain girth~
+#1409 a tiny dagger~
+#1410 an egg~
+#3000 a barrel~
+#3001 a bottle~
+#3002 a bottle~
+#3003 a firebreather~
+#3004 a bottle~
+#3010 a bread~
+#3011 a danish pastry~
+#3012 a mexican taco~
+#3013 a spicy hot burrito~
+#3014 some nachos with cheese~
+#3020 a dagger~
+#3021 a small sword~
+#3022 a long sword~
+#3023 a wooden club~
+#3024 a warhammer~
+#3025 a flail~
+#3030 a torch~
+#3031 a lantern~
+#3032 a bag~
+#3033 a box~
+#3034 an umbrella~
+#3040 a breast plate~
+#3041 a chain mail shirt~
+#3042 a shield~
+#3043 a leather jacket~
+#3044 a studded leather jacket~
+#3045 a scale mail jacket~
+#3046 a bronze breast plate~
+#3050 a scroll of identify~
+#3051 a yellow potion of see invisible~
+#3052 a scroll of recall~
+#3053 a wand of invisibility~
+#3054 a staff of sleep~
+#3055 a staff of healing~
+#3056 a green scroll~
+#3060 a raft~
+#3061 a canoe~
+#3062 a magic carpet~
+#3067 a key~
+#3068 a tally sheet~
+#3070 a pair of bronze gauntlets~
+#3071 a pair of leather gloves~
+#3075 a bronze helmet~
+#3076 a leather cap~
+#3080 a pair of bronze leggings~
+#3081 a pair of leather pants~
+#3085 a pair of bronze sleeves~
+#3086 a pair of leather sleeves~
+#3097 an ATM machine~
+#3098 a holy bulletin board~
+#3099 a bulletin board~
+#3100 a cup~
+#3101 a cup~
+#3102 a cup~
+#3120 a key~
+#3121 a key~
+#3122 a key~
+#3123 a key~
+#3130 the desk~
+#3131 the safe~
+#3132 the gold~
+#3133 the City Key~
+#3134 the Bench~
+#3135 a fountain~
+#3136 a small pile of gold coins~
+#3300 a metal key~
+#3301 a brass key~
+#3400 a candlestick~
+#3401 oops~
+#3402 a nightguant's tickler~
+#3403 disgusting pinkish plasma webbing~
+#3410 a queerly shaped rod~
+#3411 a large black dirty key~
+#3412 the mummified head of Jubal the Benevolent~
+#3413 a black marble ring~
+#3414 a whisper thin rapier~
+#3415 a stone sarcophagus~
+#3416 a heavy iron key~
+#3417 a wineflask~
+#3418 a mound of coins fit for a dead king~
+#3419 key to the coffin~
+#3420 a hidden compartment in the room~
+#3421 a rusty curved scimitar~
+#3422 a piece of slime~
+#3423 An artists smock~
+#3424 a tightly rolled scroll~
+#3425 An auburn-colored orb~
+#3426 A bar of gold~
+#3427 a dark black cape~
+#3428 a pitch-black longsword that flames brightly...~
+#3429 a worn and dented breast plate~
+#3851 a shovel~
+#3852 a pick~
+#3853 A short shovel~
+#3854 A pole axe~
+#3855 A battle axe~
+#3856 A black spear~
+#3857 A pair of snakeskin boots~
+#3858 A copper ring~
+#3859 A pair of rainbow bracers~
+#3860 A set of bronze spiked sleeves~
+#3861 A shield of strength~
+#3862 The corpse of Festeer~
+#3863 A black potion~
+#3864 A vellum scroll~
+#3899 A platinum key~
+#3901 Studded leather helmet~
+#3902 Studded leather cloak~
+#3903 Studded leather sleeves~
+#3904 Studded leather skirt~
+#3905 Studded leather boots~
+#3906 Studded leather gloves~
+#3907 Studded leather belt~
+#3908 Studded leather shield~
+#3909 Studded leather vest~
+#3910 Fire red bracelet~
+#3911 a Fire-red broad sword~
+#3912 Fire red ring~
+#4000 a yellow and green ring~
+#4001 a corpse~
+#4002 some coins~
+#4050 a purple potion~
+#4051 a metal helmet~
+#4052 a mushroom~
+#4053 a thieves dirk~
+#4100 a black demon blade.~
+#4101 a swordmans gloves~
+#4102 a scroll which reads "ysafg"~
+#4103 a green slime mold~
+#4104 a green slime mold~
+#5000 A small mining pick~
+#5001  A glowing suit of banded mail~
+#5002 the halberd~
+#5003 the amulet~
+#5005 A large leg bone~
+#5006 a small cactus cup~
+#5007 a small wicker basket~
+#5008  a small wicker basket~
+#5009 a small wicker basket~
+#5010 a small wicker basket~
+#5011 a coil of rope~
+#5012 a bunch of stakes~
+#5013 an old, tattered map~
+#5014 a thick padded turban~
+#5015 a great pile of treasure~
+#5016 a long, curved sabre~
+#5017 a curved scimitar~
+#5018 a long, pointed cutlass~
+#5019 a pink potion~
+#5020 a platinum wand~
+#5021 a strange bow~
+#5022 An encrypted scroll~
+#5023 an iron bound chest~
+#5024 a golden key~
+#5025 a copper bracelet~
+#5026 A large ruby~
+#5027 A glittering diamond~
+#5028 A brilliant sapphire~
+#5029 a deep blue lapis lazuli~
+#5030 the Tiger Jewel~
+#5031 the red-eyed jewel~
+#5032 a fiery green emerald~
+#5050 a shimmering blue cloak~
+#5051 an M-16 assault rifle~
+#5100 a commoner's longsword~
+#5101 a noble's longsword~
+#5102 a snake headed whip~
+#5103 a snake headed whip~
+#5104 a snake headed whip~
+#5105 a black longsword~
+#5106 a snake headed whip~
+#5107 a snake headed whip~
+#5108 a pair of bracers~
+#5109 a pair of gauntlets~
+#5110 a silvery blue wand~
+#5111 a small helmet~
+#5112 a small ruby ring~
+#5113 a spider shaped dagger~
+#5114 a small bright green hat~
+#5200 a ringmail vest~
+#5201 an iron helm~
+#5202 a pair of iron gauntlets~
+#5203 some iron sleeves~
+#5204 a pair of iron boots~
+#5205 a set of iron leggings~
+#5206 an iron girth~
+#5207 a battered iron breast plate~
+#5208 a sturdy iron shield~
+#5209 a large black shield~
+#5210 a black potion~
+#5211 an orange potion~
+#5213 a green serpentine staff~
+#5214 a smooth quartz ball~
+#5215 a tattered scroll~
+#5216 a bound scroll~
+#5217 a silver flute~
+#5218 a demon-faced talisman~
+#5219 a chunk of venison~
+#5220 a large cracked fountain~
+#5221 a two-handed sword~
+#5222 a black silk robe~
+#5223 a dark green cloak~
+#5224 an engraved ebony seal~
+#5225 the desk~
+#5226 an engraved ivory seal~
+#5227 the glass cabinet~
+#5228 a rotten arm~
+#5230 a pale blue stone~
+#5231 a scarlet and blue stone~
+#5232 a incandescent blue stone~
+#5233 a deep red stone~
+#5234 a pink stone~
+#5235 a pearly white stone~
+#5236 a pale lavender stone~
+#5237 a lavender and green stone~
+#5238 a dusty rose stone~
+#5239 a dull grey stone~
+#5240 a vibrant purple stone~
+#5241 a pink and green stone~
+#5242 a pale green stone~
+#5243 a clear stone~
+#5244 an iridescent stone~
+#5250 a mandolin~
+#5251 a golden harp~
+#5999 black, leather boots~
+#6000 a lumber axe~
+#6001 a chequered shirt~
+#6002 a pair of leather boots~
+#6003 a fireplace~
+#6004 a hooded brass lantern~
+#6005 a wooden chest~
+#6006 a small brass key~
+#6007 a heap of gold coins~
+#6010 some blackberries~
+#6011 a mushroom~
+#6012 a large sign~
+#6013 the barrel~
+#6101 a sign~
+#6102 a colossal tree~
+#6103 a long, grey branch~
+#6104 a long, grey branch~
+#6105 a long, grey branch~
+#6106 a toadstool~
+#6107 a toadstool~
+#6108 a big pile of gold coins~
+#6109 a blue potion~
+#6110 a yellow potion~
+#6111 a large round shield~
+#6112 an iron crown~
+#6113 an iron sceptre~
+#6114 an iron ring~
+#6155 the morning star~
+#6301 a very sharp knife~
+#6302 a wizard's hat~
+#6303 a pontiff's headdress~
+#6304 a black knight's visor~
+#6504 a hammer~
+#6505 dwarven plate mail~
+#6506 long, black stick~
+#6507 long, black stick~
+#6508 dwarven club~
+#6509 a two-handed dwarven axe~
+#6510 A dwarven helmet~
+#6511 A golden dwarven ring~
+#6512 Dwarven gloves~
+#6513 a note~
+#6514 a castle key~
+#6515 a pair of magic boots~
+#6516 a mine key~
+#6517 a chunk of coal~
+#6518 a mining pick~
+#6519 a box of birth control pills~
+#6520 a poster~
+#6521 a bottle~
+#6522 a barrel~
+#6523 a cookie~
+#6524 a wand of fireballs~
+#6525 the Demonspawned armor~
+#6526 a stick~
+#6527 a zoo sign~
+#6550 a red and blue key~
+#6551 an old, wooden trapdoor~
+#6900 Quifael's global optimizer~
+#6901 the Olympian blade~
+#6902 Dionysos' Staff of Wonders~
+#6910 a black dragon scale shirt~
+#6911 a black dragon scale skirt~
+#6912 a black, hooded cloak~
+#6913 a broad silver belt~
+#6914 a long, slender sword~
+#6950 a coffee machine~
+#6951 a coffee cup~
+#6999 the Scythe of Death~
+#7090 a waybread~
+#7190 a glinting ring of silver~
+#7191 a golden ring~
+#7200 the devil rod~
+#7201 the large mace~
+#7202 the small mace~
+#7203 a purple cloak~
+#7204 an neon blue potion~
+#7205 a black key~
+#7206 a strange white skull~
+#7207 a pair of muddy gauntlets~
+#7208 a small stick~
+#7209 a pair of muddy boots~
+#7210 a huge treasure~
+#7211 a short sword~
+#7212 a huge bastard sword~
+#7213 a large helmet~
+#7214 a caos helmet~
+#7215 a light sabre~
+#7216 a two-handed sword~
+#7217 a silvery breast plate~
+#7218 some leg plates~
+#7219 a pair of gloves~
+#7220 a silvery helmet~
+#7221 the shield of the rose~
+#7222 a pair of heavy plated boots~
+#7223 some arm plates~
+#7800 A green potion~
+#7801 Diamond bracelets~
+#7802 A suit of elven chainmail~
+#7803 A well crafted sword~
+#7804 A well crafted sword~
+#7805 A well crafted sword~
+#7806 A well crafted sword~
+#7807 A well crafted sword~
+#7808 A cooked pheasant~
+#7809  A carved staff~
+#7810 A pair of elven boots~
+#7811 A light grey cloak~
+#7812 A ring with a dragon's head~
+#7813 a wooden key~
+#7900 a large key~
+#7901 a copper key~
+#7909 a huge treasure~
+#7910 a wooden chest~
+#7911 a small brass key~
+#8100 a small strip of aluminum~
+#8101 a dirty dish~
+#8102 a chunk of glass~
+#8113 a bone~
+#8120 a blueish whip~
+#8121 a leather satchel~
+#8900 the sign~
+#8901 the poster~
+#8910 a Warrior's Trident~
+#9070 a smore~
+#9071 a *large* bottle of milk~
+#9072 an oreo cookie~
+#9101 a pair of winged boots~
+#9102 a pair of carved bronze bracers~
+#9103 an ornate brooch~
+#9104 magenta potion~
+#9105 an ancient illustrated parchment~
+#9106 a massive pile of gold coins~
+#9107 a Golden Kruggerand~
+#9108 some jagged sleeves~
+#9109 some jagged leggings~
+#9110 a brass shield~
+#9111 a charred stick~
+#9112 a black silk sash~
+#9113 a skull-headed staff~
+#9114 a jade bracelet~
+#9115 a jade ring~
+#9116 a cloudy potion~
+#9117 a pair of razored talons~
+#9118 a jeweled prism~
+#10001 a gold key~
+#10002 an old key~
+#10003 a pair of strange boots~
+#10004 galactic claymore~
+#10005 metallic shield~
+#10006 black tunic~
+#10007 high heels~
+#10008 opal ring~
+#10009 opal bracelet~
+#10010 display case~
+#10011 key chain~
+#10012 an opal potion~
+#10013 a long sword~
+#10014 a runed dagger~
+#12000 a crystal spike~
+#12200 a sharp rock~
+#12201 a patch of moss~
+#12500 a Mysterious Bothwan Idol~
+#12501 a Rubik's Head~
+#12502 a firestick~
+#12503 a staple gun~
+#12520 a lemon cream puff~
+#12530 a plate of spaghetti~
+#12531 a glass of pink wine spritzer~
+#12532 a bread stick~
+#12535 a top hat~
+#12536 a pair of dress shoes~
+#12537 a tuxedo jacket~
+#12538 some nice trousers~
+#12539 a pink cumberbund~
+#12540 a black cumberbund~
+#12541 a short, sexy skirt~
+#12542 a long, slinky dress~
+#12543 a blouse~
+#12550 a mink stole~
+#12551 a fur hat~
+#12552 an ox fur coat~
+#12553 a bear fur coat~
+#12554 a pair of fur leggings~
+#12555 a pair of ermine gloves~
+#12560 a chewy chunk of chocolate~
+#12561 a golden delicious apple~
+#12562 a hunk of meat in a roll~
+#12563 a flagon~
+#12564 some mammoth belly~
+#12565 a yak liver~
+#12566 some undefinable tripe~
+#12568 a shiny meat cleaver~
+#12570 a sharp pike~
+#12571 a quarterstaff~
+#12572 a bludgeon~
+#12573 a wavy blade~
+#12580 a white scroll~
+#12581 a clear potion~
+#12582 a smoky potion~
+#12585 a key~
+#12586 a tally sheet~
+#12590 a metal key~
+#12591 a muddy key~
+#12595 a clear stone~
+#12596 a heart bracelet~
+#12600 a gold ring~
+#12601 a battered chest~
+#12602 a tiny key~
+#12603 a teddy bear~
+#12604 a gorgeous gem~
+#14200 a ripe, juicy watermelon~
+#14201 a blue squash~
+#14202 a sweet vidalia onion~
+#15000 a Sorcerer's Key~
+#15001 a Golden Key~
+#15002 a wizard's staff~
+#15003 a jewel-studded silver dagger~
+#15004 a wizard's bracelet~
+#15005 a black robe~
+#15006 an ornate wand~
+#15007 the eyes of charming~
+#15008 a silken cloak~
+#15009 a platinum bracelet~
+#15010 a warrior's sword~
+#15011 A warrior's platemail~
+#15012 a staff of absorption~
+#15013 a brown potion~
+#15014 an elixer~
+#15015 a strange vial of blood~
+#15016 a mage's dagger~
+#15017 a mace of disruption~
+#15018 a strange scroll~
+#15019 a runed cloak~
+#15020 a guard's longsword~
+#15021 a guard's platemail~
+#15022 a heavy suit of guard's mail~
+#15023 a fine longsword~
+#15024 a fine shield~
+#15025 a satanic amulet~
+#15026 a pair of heavy plated iron boots~
+#15027 a pair of strange gauntlets~
+#15028 a rogue's dagger~
+#15029 the dragonslayer~
+#15030 a silver dragon egg~
+#15031 a satanic bracelet~
+#15032 a magic longsword~
+#15033 a quarterstaff~
+#15034 a golden longsword~
+#15035 a pair of shiny golden boots~
+#15036 a Smedgeburger~
+#15037 some Smedgefries~
+#15038 a can~
+#15039 a barrel~
+#15040 a chew of tobacco~
+#15041 a large side of beef~
+#15042 a piece of catmeat~
+#15043 some frozen food~
+#15100 a bone key~
+#15101 a large grey mine key~
+#15102 Akabar's Key~
+#15103 a bone bracelet~
+#15104 a sword of bone~
+#15105 a pair of bone plated boots~
+#15106 a bone helmet~
+#15107 a dragon spear~
+#15108 a suit of dragon's mail~
+#15109 a dragonrider's helmet~
+#15110 a blue cape~
+#15111 a pair of blue sleeves~
+#15112 Akabar's Ring~
+#15113 a pair of magic bracers~
+#15114 a strange belt~
+#15115 a mage's staff~
+#15116 an enchanted sword~
+#15117 Akulab's Bracelet~
+#15118 a purple stone ring~
+#15119 a fiery red potion~
+#15120 a water amulet~
+#15121 a bone plate~
+#15122 a 50 foot tall statue of Sam Kinison~

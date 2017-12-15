@@ -1,0 +1,484 @@
+#1 Puff~
+#4 Winky~
+#23 The shadow assassin of Mr. Audran~
+#24 Mr. Audran~
+#30 the persian cat~
+#31 the cocker spaniel~
+#900 A fairy dragon~
+#901 A griffon~
+#1000 a peasant~
+#1001 a peasant~
+#1002 a peasant~
+#1003 a peasant~
+#1004 a peddler~
+#1005 a peddler~
+#1050 a bandit~
+#1203 The executioner~
+#1205 the salesman~
+#1206 the pond scum~
+#1400 the Elven Wizard~
+#1401 the Keeper of the Ring~
+#1402 Farmer Gamgee~
+#1403 a toddler~
+#1404 a nursemaid~
+#1405 a cow~
+#1406 a pig~
+#1407 a chicken~
+#1408 a bull~
+#1409 a horse~
+#1410 a shiriff~
+#1411 a shiriff~
+#1412 The Thain~
+#1413 the Innkeeper~
+#1414 the Miller~
+#1415 the mill worker~
+#1416 the elven warrior~
+#1417 the dwarven prince~
+#1418 The shopkeeper~
+#1419 The grocer~
+#1420 the blacksmith~
+#1421 the battle master~
+#1422 a halfling youth~
+#1423 a seasoned adventurer~
+#1424 a local gossip~
+#1425 a halfling beauty~
+#1426 a trainee~
+#1427 a chic urbanite~
+#1428 a country bumpkin~
+#1430 the Innkeeper~
+#3000 the Wizard~
+#3001 the Baker~
+#3002 the Grocer~
+#3003 the Weaponsmith~
+#3004 the Armourer~
+#3005 the Receptionist Goddess~
+#3006 the Captain~
+#3007 the Sailor~
+#3008 Uncle Juan~
+#3020 the Guildmaster~
+#3021 the Guildmaster~
+#3022 the Guildmaster~
+#3023 the Guildmaster~
+#3024 the Sorcerer~
+#3025 the Knight Templar~
+#3026 the Assassin~
+#3027 the Knight~
+#3040 the Bartender~
+#3041 the Waiter~
+#3042 the Waiter~
+#3043 the Waiter~
+#3044 the Waiter~
+#3045 the Waiter~
+#3046 Filthy~
+#3059 the Elite Red Guard~
+#3060 the Cityguard~
+#3061 the Janitor~
+#3062 the Beastly Fido~
+#3063 the Mercenary~
+#3064 the Drunk~
+#3065 the Beggar~
+#3066 the Odif Yltsaeb~
+#3067 the Cityguard~
+#3068 the horrid green gelatinous blob~
+#3069 the funny jester~
+#3070 the Elite Black Mage~
+#3071 Madame Russi~
+#3072 Navarro~
+#3080 the jailkeeper~
+#3081 the policebot~
+#3082 the watchman~
+#3090 the Kitten~
+#3091 the Puppy~
+#3092 the Beagle~
+#3093 the Rottweiler~
+#3094 the Wolf~
+#3100 the Maid~
+#3120 the Sexton~
+#3121 the Swan~
+#3122 the Duckling~
+#3123 the Sparrow~
+#3124 the Duck~
+#3140 the Chief~
+#3141 the Cityguard~
+#3142 the Secretary~
+#3143 the Mayor~
+#3144 the Town Crier~
+#3300 the cat~
+#3400 the bony skeleton~
+#3401 The undead zombie~
+#3402 The ghoul~
+#3403 The wraith~
+#3404 The guardian vampire~
+#3405 The priest~
+#3406 The Mi-Go~
+#3407 The nightgaunt~
+#3408 The hunting horror~
+#3409 Some cave weeds spring up out of the ground and~
+#3410 Snapper Joe~
+#3411 The X'ist flesh eater~
+#3412 The spirit of King Crotus~
+#3413 The rock slug~
+#3414 The mad etcher~
+#3415 The specteral etchers wife~
+#3416 The half-decomposed body~
+#3500 The wyvern~
+#3501 The goblin~
+#3851 The graverobber~
+#3852 The master graverobber~
+#3853 An old widow~
+#3854 The giant mole~
+#3855 A baby mole~
+#3856 The Gargoyle~
+#3857 The old hound dog~
+#3858 The gravedigger~
+#3859 Skid the snake master~
+#3860 A garden snake~
+#3861 A boa constrictor snake~
+#3862 A tomb guard~
+#3863 A Lesser demon~
+#3864 A minor demon~
+#3865 A demon slave~
+#3866 A greater demon~
+#3867 A demon fire that had come from the depths of hell~
+#3868 Saple~
+#3869 Spot the rainbow dragon~
+#3870 Butkis the grand demon~
+#3901 A Fireant~
+#3902 A Soldier Fireant~
+#3903 The Queen Fireant~
+#3904 A cute, warg-fido puppy~
+#3905 Half-grown warg like pup~
+#3906 Nearly grown warg like dog~
+#3907 Large warg~
+#3908 Angry warg trainer~
+#3909 Beautiful mistress~
+#4000 the snake~
+#4001 the green snake~
+#4002 the centipede~
+#4003 the kobold~
+#4004 the orc~
+#4005 the orc~
+#4050 the warrior~
+#4051 the warrior~
+#4052 the hobgoblin~
+#4053 the snake~
+#4054 the centipede~
+#4055 the hobgoblin~
+#4056 the orc~
+#4057 the mountain lion~
+#4058 the hill giant~
+#4060 Tawny the cougar~
+#4061 the Maenad~
+#4100 the Mage~
+#4101 the troll~
+#4102 the snake~
+#4103 the Thief~
+#4104 the orc~
+#4105 a centipede~
+#4106 the Warrior~
+#4107 the kobold~
+#5000 The dervish~
+#5001 The dervish~
+#5002 The coral snake~
+#5003 The small scorpion~
+#5004 The giant, purple sand worm~
+#5005 The brass dragon~
+#5006 The nomad leader~
+#5007 The nomad commander~
+#5008 The nomad warrior~
+#5009 The slave~
+#5010 The dracolich~
+#5011 The drider~
+#5012 The dark dwarf~
+#5013 The myconoid~
+#5014 The myconoid shaman~
+#5015 The dustdigger~
+#5017 The rabid camel~
+#5100 The goblin slave~
+#5101 The Drow commoner~
+#5102 The drow warrior noble~
+#5103 The drow mage noble~
+#5104 The drow priestess~
+#5105 The drow master~
+#5106 The weaponsmaster~
+#5107 The Matron Mother~
+#5108 The Matron Mother~
+#5109 The yochlol~
+#5200 The mighty beholder~
+#5201 The lamia~
+#5202 The mimic~
+#5203 The mimic~
+#5204 The mimic~
+#5205 The mimic~
+#5206 The mimic~
+#5207  The horned lizard~
+#5208 The stone golem~
+#5300 the dervish~
+#5301 some green slime~
+#5302 a hungry jackel~
+#5303 the statue~
+#5304 the dervish priest~
+#5305 the water weird~
+#5306 a living statue~
+#5307 the dervish highpriest~
+#5309 the glabrezu demon~
+#5350 the cambion~
+#5351 the cambion~
+#5352 the cambion~
+#5353 the shade~
+#5375 your shadow~
+#5376 a shadow mastiff~
+#5377 the shadow dragon~
+#5390 Lord Marak~
+#5391 Darkanian Shadowstar~
+#6000 John the Lumberjack~
+#6001 the cute rabbit~
+#6002 the brown bear~
+#6003 the ferocious rabbit~
+#6004 the fallow deer~
+#6005 the brown fox~
+#6100 the vicious warg~
+#6101 the ferocious warg~
+#6102 the large, grey wolf~
+#6103 the large, black wolf~
+#6110 a huge, ancient tree, walking on giant roots,~
+#6111 a huge, ancient tree, walking on giant roots,~
+#6112 the huge, green dragon~
+#6113 the huge, poisonous spider~
+#6114 the Queen Spider~
+#6115 Shargugh~
+#6116 the Elder Druid~
+#6301 the young spider~
+#6302 Yevaud~
+#6303 the Wolf Spider~
+#6304 the orc~
+#6305 the Queen Wasp~
+#6306 the drone spider~
+#6307 the ethereal spider~
+#6308 the slave of Arachnos~
+#6309 the quasit~
+#6310 the Bird Spider~
+#6311 the Hermit~
+#6312 the Donjonkeeper~
+#6313 The guardian~
+#6314 Arachnos~
+#6315 the Ki-Rin~
+#6316 the young dragon wormkin~
+#6317 the elder dragon wormkin~
+#6500 dwarf guard~
+#6501 dwarf worker~
+#6502 a wraith~
+#6503 the Hide & Tooth storekeeper~
+#6504 Granite Head the baker~
+#6505 The giant lizard~
+#6506 The giant~
+#6507 A dwarven mineworker~
+#6508 A dwarven mine leader~
+#6509 the dwarven doctor~
+#6510 the dwarven peon~
+#6511 the dwarf~
+#6512 the unwanted son~
+#6513 the unwanted daughter~
+#6514 the barrack's guard~
+#6515 the man in waiting~
+#6516 the mazekeeper~
+#6517 the giant snake~
+#6520 Quintic the dealer~
+#6521 Johnny the lemonade stand man~
+#6530 the monkey~
+#6531 the giraffe~
+#6532 the goat~
+#6533 the pelican~
+#6534 the horse~
+#6535 the chicken~
+#6536 the platypus~
+#6537 the kangaroo~
+#6538 the worm~
+#6539 the armadillo~
+#6540 the sloth~
+#6541 the skunk~
+#6542 the leopard~
+#6543 the lion~
+#6544 the bear~
+#6545 the elephant~
+#6900 the computer bug~
+#6910 Isha the Dark Elf~
+#6999 Death~
+#7000 The horrifying Mudmonster~
+#7001 The small bat~
+#7002 The Great Sewer Rat~
+#7003 The small Spider~
+#7004 The giant earth beetle~
+#7005 The maggot~
+#7006 The slithering snake~
+#7007 The evil wanderer~
+#7008 the creature homonculous~
+#7009 The Grand Knight of Paladins~
+#7010 the evil chr-eff'n~
+#7011 the shadowy morkoth~
+#7012 Madam Esther~
+#7040 The red dragon~
+#7041 The sea hag~
+#7042 The guardian naga~
+#7043 The scaled basilisk~
+#7044 The lemure~
+#7045 Jones 'cruncher' the ettin~
+#7046 Herald 'the mouse-killer' ettin~
+#7200 The master mindflayer~
+#7201 The senior mindflayer~
+#7202 The junior mindflayer~
+#7203 The ugly wererat~
+#7204 The gigantic rat~
+#7800 The huge blue dragon~
+#7801 A young blue dragon~
+#7802 A large raccoon~
+#7803 An elven sentry~
+#7804 The elven cleric~
+#7805 The elf~
+#7806 The elven chef~
+#7807 the cat~
+#7808 The worshipper~
+#7809 The elite elven guard~
+#7810 The elven king~
+#8000 the Shredder~
+#8001 the bug~
+#8003 the Daemon~
+#8005 the cursor~
+#8006 the Juggernaut~
+#8008 the butterfly~
+#8010 the cowboy~
+#9101 The screaming, filthy harpy~
+#9102 The screaming harpy leader~
+#9103 The ghostly air elemental~
+#9104 The mysterious effreeti~
+#9105 The gigantic roc~
+#9106 The gigantic roc~
+#9107 the ugly, wicked witch~
+#9108 The black cat~
+#10001 the blue enfan~
+#10002 the grey enfan~
+#10003 the green enfan~
+#10004 the purple enfan~
+#10005 the yellow enfan~
+#10006 the black enfan~
+#10007 the guard dog~
+#10008 the rat~
+#10009 the green enfan~
+#10010 the purple enfan~
+#10011 the yellow enfan~
+#10012 the gargoyle~
+#10200 the hermit~
+#10201 a silver fox~
+#11100 A wild mammoth~
+#12000 The snowbeast~
+#12001 The snow vulture~
+#12002 The spiny boccila~
+#12003 The spiny boccila~
+#12004 The arctic wolf~
+#12005 The crystal phalanx~
+#12006 the skeleton~
+#12007 the cute little chitta~
+#12008 the white seagull~
+#12009 the sly weasel~
+#12010 the pink flamingo~
+#12012 the local sherpa~
+#12013 the vermicious knid~
+#12014 the snow goon~
+#12015 the mountain goat~
+#12016 the bald eagle~
+#12017 the llama~
+#12018 the white tekra~
+#12019 the magma beast~
+#12020 the shrieker~
+#12021 the troglodyte~
+#12022 the small spore ball~
+#12023 the large spore ball~
+#12024 the snake skeleton~
+#12025 the fire spirit~
+#12200 the squirt bug~
+#12201 the snow hare~
+#12202 Slag~
+#12500 Biff Stud~
+#12501 Pollyanna~
+#12502 the affable waiter~
+#12503 Clyde~
+#12504 the Guildmaster~
+#12505 the Guildmaster~
+#12506 the Guru of Anapest~
+#12507 the Grandmage~
+#12508 the knowledgeable supplier~
+#12509 the Innkeeper~
+#12510 the armorer~
+#12511 the tailor~
+#12512 the furrier~
+#12513 Dud~
+#12514 The Bar Maid~
+#12515 Cookie~
+#12516 The Lapidarist~
+#12517 The Chemist~
+#12518 The Bookseller~
+#12519 The Farmer~
+#12520 The Farmer~
+#12521 The Taxman~
+#12522 Albert DuBois~
+#12523 Ran Dog the Neophyte~
+#12524 Gob the Weaponsmaster~
+#12525 Polk the Innkeeper~
+#12526 The soldier~
+#12527 The rookie soldier~
+#12528 The lieutenant of the guard~
+#12529 The captain of the guard~
+#12530 The armaments officer~
+#12580 the jailkeeper~
+#12581 the policebot~
+#12582 the watchman~
+#14200 Wild Willy~
+#14201 the vicious pink rabbit~
+#14202 the big ugly troll~
+#15000 The Archmage of the Tower~
+#15001 The fiendish looking spectre~
+#15002 The large warrior~
+#15003 The black mage~
+#15004 The cleric~
+#15005 The patroling guard~
+#15006 The barrack guard~
+#15007 The Chief Guard~
+#15008 The Tower Guardian~
+#15009 The high priest~
+#15010 A disciple~
+#15011 The golden warrior~
+#15012 An imp~
+#15013 A thing~
+#15014 An iron golem~
+#15015 A flesh golem~
+#15016 A rogue~
+#15017 A silver dragon~
+#15018 An Archdemon~
+#15019 A sentry~
+#15020 An apprentice mage~
+#15021 Smedgewack~
+#15100 The skeleton gate guard~
+#15101 The skeletal knight~
+#15102 An undead beast~
+#15103 A wight~
+#15104 A ghoul~
+#15105 A ghast~
+#15106 The death dragon~
+#15107 The undead dragon~
+#15108 Akabar's Guardian~
+#15109 Akabar~
+#15110 An undead wife~
+#15111 An undead husband~
+#15112 The elder mage~
+#15113 Edauqcm~
+#15114 Akulab~
+#15115 A mine guard~
+#15116 The undead baker~
+#15117 The undead grocer~
+#15118 The undead armourer~
+#15119 The undead weaponsmith~
+#15120 The undead wizard~
+#15121 A water fiend~
+#15122 An undead fish~
+#15123 An undead child~
+#15124 The undead boat keeper~

@@ -1,0 +1,25 @@
+COPPER diku's Help MENU: you can get more help. Just type HELP <command>.
+-------------------------------------------------------------------------------
+Movement:                            | Communication:
+NORTH SOUTH EAST WEST UP DOWN EXITS  | SAY (') SHOUT TELL ASK WHISPER EMOTE (:)
+LOOK ENTER LEAVE FLY SWIM LEVITATE   | YELL AUCTION
+SLEEP WAKE REST SIT STAND            | (type HELP SOCIAL for social mesgs)
+(LOCK UNLOCK OPEN CLOSE PICK)        |
+-------------------------------------------------------------------------------
+Objects:                             | Information: 
+GET DROP PUT GIVE WEAR GRAB RUB      | SCORE HELP INFO WHO NEWS TIME WEATHER
+INVENTORY EQUIPMENT EXAMINE EAT TASTE| WHERE CONSIDER LEVELS WIZLIST CREDITS
+POUR WRITE DRINK SIP FILL SEARCH     | LWHO DISPLAY PRACTICE
+-------------------------------------------------------------------------------
+BUY SELL LIST OFFER  (at shops)      | JOIN (at arena) PRACTICE (at guild)
+RENT (at reception areas)            | TAG (if you are "IT")
+-------------------------------------------------------------------------------
+Combat:                              | Utility:
+KILL WIELD FLEE WIMPY MURDER         | ! BUG IDEA TYPO QUIT SAVE BRIEF COMPACT
+(KICK BASH RESCUE BACKSTAB CAST)     | DISPLAY TITLE NOSUMMON
+-------------------------------------------------------------------------------
+Further information available by HELP <keyword>, keyword being a command or 
+(for example) one of the following: SOCIAL SHOPS INNS CLERIC WARRIOR LAWS
+KILLER THIEF MAGIC DOCS JAIL
+-------------------------------------------------------------------------------
+Most commands can be abbreviated (T=TELL, etc.)

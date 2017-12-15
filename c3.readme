@@ -1,0 +1,51 @@
+
+Okay, this code is yours to do whatever you want to with, except:
+
+1) anything that breaks the diku license.doc agreement
+
+2) not give credit for the copper3 code - this need only be a mention
+in a publically readable credits file along the lines of: {based on|
+borrows from|includes|whatever} code from Copper III.
+
+3) I'm sure I'll think of something else...
+
+-----------
+
+What to do with this?
+
+First of all, it won't compile. There are certain things I don't want
+to distribute at this point, and I don't have the time to make sure
+what I tar up will compile. You can probably get by with stub values
+for missing functions, or just removing those references.
+
+When browsing the code, check out structs.h first - a lot of the code
+changes were dictated by changing the structures here. It's probably
+much easier to understand things with that knowledge.
+
+I have the Makefile set up to put object files into a separate
+subdirectory, taking from the variable ARCH which ought to be defined
+before calling make (or you can define ODIR correctly within the
+Makefile). I use the same code directory across several machines, and
+this makes it handy for keeping things separate.
+
+You will need to put a copy of config.h in your object directory and
+change its values appropriately.
+
+If you need to change something to make it compile on your machine,
+let me know the machine and the necessary change, and I'll try to
+make it easier in the next rev.
+
+It's probably not worthwhile to try to convert your favorite
+areas to the c3 system. Only the rooms will go across with little
+difficulty, and it will be hard to achieve the same feel, most
+likely. I don't mean to discourage anyone; this is just part
+of the attempt to break down area boundaries. Does anyone think
+the Matrix made any sense?
+
+FYI - I probably won't remember to delete my override password all
+the time before putting this up (if ever). It's right there in nanny.c
+(look for "podtor") - you very well might want to remove it or put in
+your own if you plan to use this code for your own mud.
+
+Andrew
+abradfor@carbon.denver.colorado.edu

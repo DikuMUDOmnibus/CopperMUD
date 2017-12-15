@@ -1,0 +1,1133 @@
+#0~
+-1
+-1
+-1
+3010
+3011
+1.2
+1.0
+0
+0
+0
+0
+0
+%s Haven't got that on storage - try list!~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s If you have no money, you'll have to go!~
+%s That'll be %d coins.~
+%s Oops - %d a minor bug - please report!~
+0
+0
+3001
+0
+3009
+0
+28
+0
+0
+#1~
+-1
+-1
+-1
+3000
+3001
+1.3
+1.0
+0
+0
+0
+0
+0
+%s It's very noisy in here, what did you say you wanted to buy?~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s Are you drunk or what ?? - NO CREDIT!~
+%s That'll be - say %d coins.~
+%s Oups - %d a minor bug - please report!~
+0
+0
+3040
+0
+3007
+0
+28
+0
+0
+#2~
+3020
+3021
+3022
+3023
+3024
+1.3
+0.4
+5
+6
+7
+0
+0
+%s I haven't got that kind of a weapon~
+%s You don't carry that weapon~
+%s I only buy weapons.~
+%s I can't afford such a great weapon~
+%s sorry, but NO CREDIT~
+%s That just costs %d coins.~
+%s Here you have %d coins for that.~
+0
+0
+3003
+0
+3011
+0
+28
+0
+0
+#3~
+3034
+1206
+3030
+3031
+3032
+1.5
+0.4
+1
+15
+19
+13
+8
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT,... Try another shop.~
+%s I can't afford such a treasure.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You'll get %d coins for it!~
+0
+0
+3002
+0
+3010
+0
+28
+0
+0
+#4~
+3040
+3042
+3044
+3076
+3081
+1.1
+0.6
+9
+0
+0
+0
+0
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I only buy armours.. Go away!~
+%s That is too expensive for me - Try a wizard!~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You'll get %d coins for it!~
+0
+0
+3004
+0
+3020
+0
+28
+0
+0
+#5~
+-1
+-1
+-1
+3002
+3003
+1.0
+1.0
+0
+0
+0
+0
+0
+%s Haven't got that on storage - try list!~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s If you have no money, you'll have to go!~
+%s That'll be %d coins.~
+%s Oops - %d a minor bug - please report!~
+0
+0
+3042
+0
+3018
+0
+28
+0
+0
+#6~
+-1
+-1
+-1
+3002
+3004
+1.2
+1.0
+0
+0
+0
+0
+0
+%s Haven't got that on storage - try list!~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s If you have no money, you'll have to go!~
+%s That'll be %d coins.~
+%s Oops - %d a minor bug - please report!~
+0
+0
+3043
+0
+3003
+0
+28
+0
+0
+#7~
+-1
+-1
+3004
+3003
+3002
+1.5
+1.0
+0
+0
+0
+0
+0
+%s Haven't got that on storage - try list!~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s If you have no money, you'll have to go!~
+%s That'll be %d coins.~
+%s Oups - %d a minor bug - please report!~
+0
+0
+3045
+0
+3022
+0
+28
+0
+0
+#8~
+-1
+-1
+-1
+3003
+3004
+1.7
+1.0
+0
+0
+0
+0
+0
+%s Haven't got that on storage - try list!~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s If you have no money, you'll have to go!~
+%s That'll be %d coins.~
+%s Oops - %d a minor bug - please report!~
+0
+0
+3044
+0
+3028
+0
+28
+0
+0
+#9~
+3050
+3051
+3052
+3053
+12580
+1.05
+0.15
+2
+3
+4
+10
+0
+%s Sorry, I haven't got exactly that item.~
+%s You don't seem to have that.~
+%s I don't buy such items.~
+%s That is too expensive for me!~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You'll get %d coins for it!~
+0
+0
+3000
+0
+3033
+0
+28
+0
+0
+#10~
+3060
+3061
+-1
+-1
+-1
+1.2
+0.9
+22
+0
+0
+0
+0
+%s Sorry pal, I have not got that kind of ship.~
+%s Ok, but let me see it first.~
+%s I only trade ships.~
+%s I can't afford such a nice ship.~
+%s This ship is too expensive for you.~
+%s Here is your ship, I'll take %d gold coins.~
+%s What a fine deal, you get %d gold coins.~
+0
+0
+3006
+0
+3049
+6
+22
+6
+22
+#11~
+3100
+3101
+3102
+-1
+-1
+1.1
+0.9
+0
+0
+0
+0
+0
+%s I got no such drink.~
+%s I see no such thing.~
+%s I do not buy, would you like a drink?~
+%s BUG, Please report~
+%s You can't afford such a fine drink, try the Grubby Inn.~
+%s Fine, that'll be %d gold pieces.~
+%s Bug, please report (%d).~
+0
+0
+3100
+0
+3106
+6
+23
+23
+24
+#12~
+-1
+-1
+-1
+3004
+3003
+1.0
+1.0
+0
+0
+0
+0
+0
+%s It's very noisy in here, what did you say you wanted to buy?~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s Are you drunk or what ?? - NO CREDIT!~
+%s That'll be - say %d coins.~
+%s Oops - %d a minor bug - please report!~
+0
+0
+3046
+0
+3048
+0
+28
+0
+0
+#13~
+-1
+-1
+3012
+3013
+3014
+1.0
+1.0
+0
+0
+0
+0
+0
+%s No tengo - try list!~
+%s No buying compadre.~
+%s No buying compadre.~
+%s No buying compadre.~
+%s No denaro! hit the road!~
+%s That'll be %d coins compadre.~
+%s Oops - %d a minor bug - please report.~
+0
+0
+3008
+0
+3056
+0
+28
+0
+0
+#14~
+6510
+3022
+6512
+6504
+6505
+1.9
+.3
+1
+15
+9
+5
+0
+%s We don't have any in storage, sorry!~
+%s Check your possessions, you don't have that.~
+%s I don't care for those types of goods.~
+%s I can't afford something that great!~
+%s You can't afford it, and don't ask a God for the money!~
+%s That'll cost you %d coins, please.~
+%s You'll get %d coins for that.~
+1
+1
+6503
+0
+6516
+0
+23
+23
+28
+#15~
+3000
+3003
+3010
+3011
+3031
+1.9
+0.2
+1
+15
+17
+19
+8
+%s Haven't got that on storage!~
+%s You don't seem to have that!~
+%s I don't buy those types, try another shop.~
+%s I cannot afford such a great treasure!~
+%s You can't afford that!~
+%s That'll be %d coins, please.~
+%s You'll get %d coins for that!~
+0
+1
+6504
+0
+6535
+0
+24
+24
+28
+#16~
+6524
+6522
+6521
+6523
+6526
+1.2
+.7
+1
+9
+18
+3
+4
+%s Dammit!  I don't have that! Type LIST..damn rookies...~
+%s Christ, don't you even know what you're carrying!!!~
+%s I really could care less about that!~
+%s Listen, I don't have the money now, but if you give it to me,
+I'll gladly pay you tuesday.~
+%s Hey Jerk! You don't have the money, so SCRAM!~
+%s HA! I got your %d coins! Another sucker...~
+%s Gimme that damn thing! Here's your %d coins for it.~
+0
+1
+6521
+0
+6562
+0
+24
+24
+28
+#17~
+6504
+6510
+6512
+6509
+6505
+1.2
+.7
+5
+9
+17
+10
+0
+%s Hey man, I don't seem to have that!~
+%s You don't have that you cool cat.~
+%s Sorry man, I don't buy those things.~
+%s Chill dude, I don't have that much dinero.~
+%s Wow man, you can't afford it!~
+%s Righteous! That'll be %d coins, man..~
+%s DUDE!  Here, you got %d coins for it!~
+0
+1
+6520
+0
+6561
+0
+28
+0
+0
+#18~
+-1
+-1
+-1
+6004
+8121
+1.1
+.95
+0
+1
+15
+17
+19
+%s I've never heard of that.~
+%s I've never heard of that.~
+%s Please, this is a general store, not a flea market.~
+%s I'll take it for free - I can't give you enough gold.~
+%s Hmmm...you'd better check your wallet.~
+%s That costs %d. There you are!~
+%s Here's %d coins.~
+1
+0
+1418
+0
+1405
+0
+24
+0
+24
+#19~
+5002
+7191
+8502
+10003
+10005
+10
+.5
+0
+0
+5
+9
+12
+%s Are you trying to pull the wool over my eyes?~
+%s Scram kid!~
+%s I don't deal in that kind of merchandise.~
+%s Do I look like a bank to you?~
+%s Pay up or get out!~
+%s Give me %d coins.  Now beat it!~
+%s Fine, here's %d coins.  Thanks for nothing.~
+0
+0
+1420
+0
+1407
+0
+24
+0
+24
+#20~
+-1
+-1
+-1
+-1
+1403
+1
+1
+0
+0
+0
+0
+0
+%s You must be having a bad day.~
+%s I've never heard of that.  Tell me more about it.~
+%s I'm sorry - I don't buy that sort of thing.~
+%s Looks like I don't have enough gold.~
+%s Come back when you get some more money.~
+%s That will be %d coins.  Enjoy.~
+%s Bug.  Please report.~
+1
+0
+1419
+0
+1421
+0
+24
+0
+24
+#21~
+-1
+-1
+1410
+3002
+3100
+1
+1
+0
+0
+0
+0
+0
+%s Say what?~
+%s Say what?~
+%s I don't buy.~
+%s I can't afford that.~
+%s You can't afford that.~
+%s Your total is %d coins.~
+%s Bug.  Please report.~
+1
+0
+1413
+0
+1416
+0
+24
+0
+24
+#21~
+-1
+-1
+1410
+3002
+3100
+1
+1
+0
+0
+0
+0
+0
+%s Speak halfling, I can't understand you.~
+%s Speak halfling, I can't understand you.~
+%s Listen - I don't trade!~
+%s You're out of luck today - I don't have enough gold.~
+%s You're out of luck today - you don't have enough gold.~
+%s Your total comes to %d coins.~
+%s Bug.  Please report.~
+1
+0
+1430
+0
+1444
+0
+24
+0
+24
+#22~
+9005
+-1
+-1
+-1
+-1
+10.0
+.5
+22
+-1
+-1
+-1
+-1
+%s I only deal in boats.~
+%s Do not waste my time foolish one.~
+%s I only buy boats.~
+%s Sorry, I'm completely destitute.~
+%s Do not waste my time infidel.~
+%s May fortune favor the foolish, I'll take %d coins.~
+%s Alas I never make a profit, here's %d coins.~
+0
+1
+9019
+0
+9050
+0 
+18
+18 
+24
+#90~
+9023
+9025
+9026
+9028
+9022
+1.8
+.5
+19
+5
+9
+17
+13
+m%  Check the list again buddy!~
+m%  Check your possessions again you caucasian!~
+m%  I don't like those type of things, westerner!~
+m%  Forget it!  I don't have enough money.~
+m%  You poor westerner, you haven't enough money!~
+m%  Lemme have it!  Here's your %d coins for it.~
+m%  Here you go, sucker!  That's %d more coins for me.~
+1
+1
+9018
+0
+9103
+0
+18
+18
+24
+#125~
+-1
+-1
+12503
+12501
+12502
+1.3
+.4
+0
+0
+0
+0
+0
+%s Huh? Don't seem to having any of those.~
+%s Sounds nice. Why don't you get one for me?~
+%s That's a bit out of my specialty. Try somewhere else.~
+%s A bit more than I can afford, I'm afraid.~
+%s Hey, I gotta stay in business, ya know.~
+%s Here you go. Enjoy!~
+%s Thanks, I know someone who'll really go for this.~
+1
+1
+12500
+0
+12573
+0
+28
+0
+0
+#126~
+-1
+-1
+3011
+3010
+12520
+1.1
+.5
+0
+0
+0
+0
+0
+%s I'm sorry, I don't seem to have anything like that.~
+%s Sounds nice. Why don't you get one for me?~
+%s That's a bit out of my specialty. Try somewhere else.~
+%s A bit more than I can afford, I'm afraid.~
+%s Wish I could just give it to you, but I can't.~
+%s Here you go, darling. Enjoy!~
+%s Thanks, I know someone who'll really go for this.~
+1
+1
+12501
+0
+12574
+0
+28
+0
+0
+#127~
+-1
+-1
+12532
+12531
+12530
+1.2
+.3
+0
+0
+0
+0
+0
+%s I'm sorry, I don't seem to have anything like that.~
+%s Small bug, please report~
+%s That's a bit out of my specialty. Try somewhere else.~
+%s Small bug, please report~
+%s Wish I could just give it to you, but I can't.~
+%s Enjoy your meal!~
+%s Small bug, please report.~
+1
+1
+12502
+0
+12576
+0
+28
+0
+0
+#128~
+-1
+-1
+-1
+12501
+12502
+1.1
+1.0
+0
+0
+0
+0
+0
+%s Huh? Don't seem to having any of those.~
+%s Sounds nice. Why don't you get one for me?~
+%s That's a bit out of my specialty. Try somewhere else.~
+%s A bit more than I can afford, I'm afraid.~
+%s Hey, I gotta stay in business, ya know.~
+%s Here you go. Enjoy!~
+%s Thanks, I know someone who'll really go for this.~
+1
+1
+12508
+0
+12593
+0
+28
+0
+0
+#129~
+-1
+-1
+-1
+12501
+12502
+1.1
+.9
+0
+0
+0
+0
+0
+%s Huh? Don't seem to having any of those.~
+%s Sounds nice. Why don't you get one for me?~
+%s That's a bit out of my specialty. Try somewhere else.~
+%s A bit more than I can afford, I'm afraid.~
+%s Hey, I gotta stay in business, ya know.~
+%s Here you go. Enjoy!~
+%s Thanks, I know someone who'll really go for this.~
+1
+1
+12510
+0
+12597
+0
+28
+0
+0
+#130~
+12535
+12536
+12537
+12538
+12539
+1.1
+.9
+0
+0
+0
+0
+0
+%s Huh? Don't seem to having any of those.~
+%s Sounds nice. Why don't you get one for me?~
+%s That's a bit out of my specialty. Try somewhere else.~
+%s A bit more than I can afford, I'm afraid.~
+%s Hey, I gotta stay in business, ya know.~
+%s Here you go. Enjoy!~
+%s Thanks, I know someone who'll really go for this.~
+1
+1
+12511
+0
+12577
+0
+28
+0
+0
+#131~
+12550
+12551
+12552
+12553
+12554
+1.1
+.8
+0
+0
+0
+0
+0
+%s Huh? Don't seem to having any of those.~
+%s Sounds nice. Why don't you get one for me?~
+%s That's a bit out of my specialty. Try somewhere else.~
+%s A bit more than I can afford, I'm afraid.~
+%s Hey, I gotta stay in business, ya know.~
+%s Here you go. Enjoy!~
+%s Thanks, I know someone who'll really go for this.~
+1
+1
+12512
+0
+12599
+0
+28
+0
+0
+#132~
+12560
+12561
+12562
+12563
+6521
+1.2
+.7
+0
+0
+0
+0
+0
+%s Huh? Don't seem to having any of those.~
+%s Sounds nice. Why don't you get one for me?~
+%s That's a bit out of my specialty. Try somewhere else.~
+%s A bit more than I can afford, I'm afraid.~
+%s Hey, I gotta stay in business, ya know.~
+%s Here you go. Enjoy!~
+%s Thanks, I know someone who'll really go for this.~
+1
+1
+12513
+0
+12603
+0
+28
+0
+0
+#133~
+12564
+12565
+12566
+-1
+-1
+1.1
+1.0
+0
+0
+0
+0
+0
+%s Huh? Don't seem to having any of those.~
+%s Sounds nice. Why don't you get one for me?~
+%s That's a bit out of my specialty. Try somewhere else.~
+%s A bit more than I can afford, I'm afraid.~
+%s Hey, I gotta stay in business, ya know.~
+%s Here you go. Enjoy!~
+%s Thanks, I know someone who'll really go for this.~
+1
+1
+12514
+0
+12604
+0
+28
+0
+0
+#134~
+12595
+12596
+-1
+-1
+-1
+1.1
+1.0
+0
+0
+0
+0
+0
+%s Huh? Don't seem to having any of those.~
+%s Sounds nice. Why don't you get one for me?~
+%s That's a bit out of my specialty. Try somewhere else.~
+%s A bit more than I can afford, I'm afraid.~
+%s Hey, I gotta stay in business, ya know.~
+%s Here you go. Enjoy!~
+%s Thanks, I know someone who'll really go for this.~
+1
+1
+12516
+0
+12578
+0
+28
+0
+0
+#135~
+3051
+3054
+12581
+-1
+-1
+1.2
+.8
+0
+0
+0
+0
+0
+%s Huh? Don't seem to having any of those.~
+%s Sounds nice. Why don't you get one for me?~
+%s That's a bit out of my specialty. Try somewhere else.~
+%s A bit more than I can afford, I'm afraid.~
+%s Hey, I gotta stay in business, ya know.~
+%s Here you go. Enjoy!~
+%s Thanks, I know someone who'll really go for this.~
+1
+1
+12517
+0
+12580
+0
+28
+0
+0
+#136~
+3050
+3052
+3053
+3056
+-1
+1.2
+1.0
+0
+0
+0
+0
+0
+%s Huh? Don't seem to having any of those.~
+%s Sounds nice. Why don't you get one for me?~
+%s That's a bit out of my specialty. Try somewhere else.~
+%s A bit more than I can afford, I'm afraid.~
+%s Hey, I gotta stay in business, ya know.~
+%s Here you go. Enjoy!~
+%s Thanks, I know someone who'll really go for this.~
+1
+1
+12518
+0
+12582
+0
+28
+0
+0
+#137~
+12571
+3020
+3021
+3023
+3024
+1.2
+1.0
+0
+0
+0
+0
+0
+%s Huh? Don't seem to having any of those.~
+%s Sounds nice. Why don't you get one for me?~
+%s That's a bit out of my specialty. Try somewhere else.~
+%s A bit more than I can afford, I'm afraid.~
+%s Hey, I gotta stay in business, ya know.~
+%s Here you go. Enjoy!~
+%s Thanks, I know someone who'll really go for this.~
+1
+1
+12524
+0
+12609
+0
+28
+0
+0
+#150~
+15036
+15037
+15038
+-1
+-1
+2.0
+1.1
+17
+19
+-1
+-1
+-1
+%s I don't have that you idiot.~
+%s You don't have anything like that.~
+%s I don't buy that kind of item.~
+%s I can't afford that!~
+%s You can't afford it!~
+%s Thanks, That will be %d coins.~
+%s Ok, You'll get %d coins for it.~
+0
+0
+15021
+-1
+93
+7
+23
+7
+23
+$~
